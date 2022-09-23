@@ -1,7 +1,9 @@
 # Sudoku-Solver
 References:
 https://www.techwithtim.net/tutorials/python-programming/sudoku-solver-backtracking/ 
+
 https://www.youtube.com/watch?v=tvP_FZ-D9Ng&t=759s 
+
 https://lvngd.com/blog/generating-and-solving-sudoku-puzzles-python/ 
 
 Added code to:
